@@ -7,13 +7,14 @@ Fig.1 - Framework of the Roadside Unit Placement Module
 </p>
 
 It was observed that an increase in the number of RSUs helps improve the fitness scores as is visible from the below graphs.
-<img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png" width=35% height=35%>
-<p align = "left">
-Fig.2 - Fitness scores vs. No. of RSUs in Area 1
+
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png" width=40% />
+  <img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png" width=40% /> 
 </p>
-<img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png" width=35% height=35%>
+
 <p align = "left">
-Fig.3 - Fitness scores vs. No. of RSUs in Area 2
+Fig.2 - Fitness scores vs. No. of RSUs in Area 1 and Area 2 respectively
 </p>
 
 It was also observed that when compared to GA and GARHC algorithms (as explained in the above paper), MFRD performed the best w.r.t high fitness scores.
