@@ -3,7 +3,7 @@ This module utilizes Memetic Algorithm (AI) to optimally place Roadside Units in
 
 <img src="https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png" width=45% height=45%>
 <p align = "left">
-Fig.1 - Framework of the Roadside Unit Placement Module
+Fig. 1 - Framework of the Roadside Unit Placement Module
 </p>
 
 It was observed that an increase in the number of RSUs helps improve the fitness scores as is visible from the below graphs.
@@ -14,7 +14,7 @@ It was observed that an increase in the number of RSUs helps improve the fitness
 </p>
 
 <p align = "left">
-Fig.2 - Fitness scores vs. No. of RSUs in Area 1 and Area 2 respectively
+Fig. 2 - Fitness scores vs. No. of RSUs in Area 1 and Area 2 respectively
 </p>
 
 It was also observed that when compared to GA and GARHC algorithms (as explained in the above paper), MFRD performed the best w.r.t high fitness scores.
@@ -26,14 +26,18 @@ It was also observed that as the number of generations (iterations) are increase
 </p>
 
 <p align = "left">
-Fig.4 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in Area 1 and Area 2 respectively
+Fig. 3 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in Area 1 and Area 2 respectively
 </p>
 
-Below are the layouts for Area 1 and Area 2 showing the evolution of the best deployment locations of 12 RSUs in Area 2.
+Below are the layouts for Area 1 and Area 2 showing the evolution of the best deployment locations of 12 RSUs in Area 2 obver the span of 30 generations of the MFRD algorithm.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/13494311/184903728-385c1a52-0e4b-4215-9c7c-97f4e92191f8.PNG" alt="gen0_12R_map2" width=33% />
   <img src="https://user-images.githubusercontent.com/13494311/184904140-c7e9232d-0b43-4432-993a-803d4d21c8be.PNG" alt="gen0_12R_map2" width=33% /> 
   <img src="https://user-images.githubusercontent.com/13494311/184904382-70478565-1e4d-4d65-b8cf-cb509ef87241.PNG" alt="gen30_12R_map2" width=33% />
+</p>
+
+<p align = "left">
+Fig. 4 - Evolutio of deployment of 12 RSUS in Area 2 after Generation 0, 15, and 30 respectively.
 </p>
 
 # Steps to run the module
