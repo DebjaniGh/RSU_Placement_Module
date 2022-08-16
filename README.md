@@ -21,14 +21,15 @@ It was also observed that when compared to GA and GARHC algorithms (as explained
 It was also observed that as the number of generations (iterations) are increased, fitness score also increases. Both these results can be inferred from the following graphs. 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/13494311/184901503-561f1502-7b2b-45af-93a1-b1bfc8008b99.png" width=50% />
-  <img src="https://user-images.githubusercontent.com/13494311/184901567-81f70f1e-61a7-412a-be8a-361f46b91ab7.png" width=50% /> 
+  <img src="https://user-images.githubusercontent.com/13494311/184901503-561f1502-7b2b-45af-93a1-b1bfc8008b99.png" width=45% />
+  <img src="https://user-images.githubusercontent.com/13494311/184901567-81f70f1e-61a7-412a-be8a-361f46b91ab7.png" width=45% /> 
 </p>
 
 <p align = "left">
 Fig.4 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in Area 1 and Area 2 respectively
 </p>
 
+Below are the layouts for Area 1 and Area 2 showing the evolution of the best deployment locations of 12 RSUs in Area 2.
 <p float="left">
   <img src="https://user-images.githubusercontent.com/13494311/184903728-385c1a52-0e4b-4215-9c7c-97f4e92191f8.PNG" alt="gen0_12R_map2" width=33% />
   <img src="https://user-images.githubusercontent.com/13494311/184904140-c7e9232d-0b43-4432-993a-803d4d21c8be.PNG" alt="gen0_12R_map2" width=33% /> 
