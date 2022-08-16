@@ -31,13 +31,13 @@ Fig.5 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in A
 
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/13494311/184903728-385c1a52-0e4b-4215-9c7c-97f4e92191f8.PNG" alt="gen0_12R_map2" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/13494311/184903728-385c1a52-0e4b-4215-9c7c-97f4e92191f8.PNG" alt="gen0_12R_map2" style="width:40%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/13494311/184904140-c7e9232d-0b43-4432-993a-803d4d21c8be.PNG" alt="gen0_12R_map2" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/13494311/184904140-c7e9232d-0b43-4432-993a-803d4d21c8be.PNG" alt="gen0_12R_map2" style="width:40%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/13494311/184904382-70478565-1e4d-4d65-b8cf-cb509ef87241.PNG" alt="gen30_12R_map2" style="width:100%">
+    <img src="https://user-images.githubusercontent.com/13494311/184904382-70478565-1e4d-4d65-b8cf-cb509ef87241.PNG" alt="gen30_12R_map2" style="width:40%">
   </div>
 </div>
 
