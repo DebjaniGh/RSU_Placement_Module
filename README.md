@@ -7,11 +7,11 @@ Fig.1 - Framework of the Roadside Unit Placement Module
 </p>
 
 It was observed that an increase in the number of RSUs helps improve the fitness scores as is visible from the below graphs.
-<img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png">
+<img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png" width=50% height=50%>
 <p align = "left">
 Fig.2 - Fitness scores vs. No. of RSUs in Area 1
 </p>
-<img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png">
+<img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png" width=50% height=50%>
 <p align = "left">
 Fig.3 - Fitness scores vs. No. of RSUs in Area 2
 </p>
