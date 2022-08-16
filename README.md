@@ -1,7 +1,7 @@
 # RSU_Placement_Module
 This module utilizes Memetic Algorithm (AI) to optimally place Roadside Units in a given area map.
 
-![RSU module latest2](https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png) | 
+![RSU module latest2](https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png =250x250) | 
 |:--:| 
 | *Framework of the Roadside Unit Placement Module* |
 
