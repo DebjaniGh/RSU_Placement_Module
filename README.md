@@ -1,17 +1,17 @@
 # RSU_Placement_Module
 This module utilizes Memetic Algorithm (AI) to optimally place Roadside Units in a given area map.
 
-<img src="https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png" width=40% height=40%>
 <p align = "left">
 Fig.1 - Framework of the Roadside Unit Placement Module
 </p>
 
 It was observed that an increase in the number of RSUs helps improve the fitness scores as is visible from the below graphs.
-<img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/13494311/184811823-e957f7ae-ec01-480b-861e-65f24f40a6a8.png" width=40% height=40%>
 <p align = "left">
 Fig.2 - Fitness scores vs. No. of RSUs in Area 1
 </p>
-<img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/13494311/184811924-b696b9d9-9cd0-47e1-b548-b8993288c77f.png" width=40% height=40%>
 <p align = "left">
 Fig.3 - Fitness scores vs. No. of RSUs in Area 2
 </p>
