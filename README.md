@@ -2,8 +2,8 @@
 This module utilizes Memetic Algorithm (AI) to optimally place Roadside Units in a given area map.
 
 <img src="https://user-images.githubusercontent.com/13494311/184808759-f3e0db08-2ea3-44a2-8bc1-106a34f2fa44.png" width=50% height=50%>
-<p align = "center">
-Fig.1 - *Framework of the Roadside Unit Placement Module*
+<p align = "left">
+Fig.1 - Framework of the Roadside Unit Placement Module
 </p>
 
 # Steps to run the module
