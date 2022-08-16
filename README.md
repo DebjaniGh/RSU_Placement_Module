@@ -16,6 +16,18 @@ Fig.2 - Fitness scores vs. No. of RSUs in Area 1
 Fig.3 - Fitness scores vs. No. of RSUs in Area 2
 </p>
 
+It was also observed that when compared to GA and GARHC algorithms (as explained in the above paper), MFRD performed the best w.r.t high fitness scores.
+It was also observed that as the number of generations (iterations) are increased, fitness score also increases. Both these results can be inferred from the following graphs. 
+
+<img src="https://user-images.githubusercontent.com/13494311/184901503-561f1502-7b2b-45af-93a1-b1bfc8008b99.png" width=40% height=40%>
+<p align = "left">
+Fig.4 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in Area 1
+</p>
+
+<img src="https://user-images.githubusercontent.com/13494311/184901567-81f70f1e-61a7-412a-be8a-361f46b91ab7.png" width=40% height=40%>
+<p align = "left">
+Fig.5 - Comparison of Fitness scores of RSU placement algorithms for 9 RSUs in Area 1
+</p>
 
 # Steps to run the module
 1. First, install the SUMO application in your system. The steps to do so according to your system's OS are present 
